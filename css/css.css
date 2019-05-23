@@ -1,0 +1,305 @@
+*{
+	margin: 0;
+}
+
+.synopsis{
+	margin-left: 20px;
+}
+
+/* 主体Div*/
+.bigDiv{
+	margin-top: 100px;
+	margin-left: 100px;
+	width: 850px;
+	height: 2000px;
+	float: left;
+	padding: 29px 29px 0;
+}
+
+.bigDiv h1{
+	margin: 0 10px 0 0;
+	font-size: 34px;
+	line-height: 1.15;
+	font-weight: 400;
+	margin-bottom: 15px;
+}
+
+/*生涯简介div*/
+.synopsis{
+	width: 790px;
+	height: 246px;
+	font-size: 14px;
+	line-height: 24px;
+	color: #333;
+	text-indent: 25px;
+}
+/*生涯简介文字内容*/
+.synopsisTop{
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.synopsisMid{
+    margin-bottom: 15px;
+}
+
+.synopsisFoot{
+    margin-bottom: 15px;
+}
+
+/*peterPan*/
+.peterPan{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+/*keepGoingTitle*/
+.keepGoingTitle{
+	background: #f1f5fb;
+}
+.keepGoingTitle li{
+	list-style-type: none;
+	margin-left: 0;
+	background-color:#71b3f7;
+	width: 100px;
+	height: 33px;
+	text-align: center;
+	font-family: Microsoft Yahei;
+}
+
+/*keepGoing*/
+.keepGoing{
+	float: left;
+	padding: 26px 26px 40px;
+	height: 140px;
+	background: #fafcff;
+}
+
+.keepGoing{
+	line-height: 10px;
+	float: left;
+}
+
+/*keepGoingPic*/
+.keepGoingPic{
+	width: 180px;
+	height: 140px;
+	float: left;
+	margin-right: 10px;
+}
+
+/*keepGoingWord*/
+.keepGoingWord p{
+	color: #136ec2;
+	margin: 20px;
+}
+
+.keepGoingWord span{
+	margin: 20px;
+	overflow: hidden;
+	margin-top: 10px;
+	height: 105px;
+	font-size: 12px;
+	color: #666;
+}
+
+/*catalogue*/
+.catalogue{
+	float: left;
+	width: 800px;
+	height: 80px;
+	background-color: #F1F5FB;
+}
+
+.catalogue ul{
+	margin-top: 36px;
+	float: left;
+	list-style-type: none;
+}
+
+.catalogue ul li{
+	margin-left: 15px;
+	float: left;
+}
+
+/*content*/
+.content{
+	margin-left: 20px;
+}
+
+/*contentTop*/
+.contentTop{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.contentTop span{
+	padding: 0 8px 0 18px;
+	line-height: 24px;
+	font-size: 22px;
+	font-weight: 400;
+	color: #000;
+	background: #fff;
+}
+.content h2{
+	margin-top: 15px;
+	font-size: 18px;
+	font-weight: 400;
+	color: #333333;
+}
+
+.jnjl{
+	float: left;
+}
+.jnjlWord{
+	font-size: 14px;
+	word-wrap: break-word;
+	color: #333;
+	margin-bottom: 15px;
+	text-indent: 2em;
+	line-height: 24px;
+	float: left;
+	width: 550px;
+}
+
+.jnjlPic{
+	margin-left: 10px;
+	float: left;
+	width: 220px;
+	height: 150px;
+}
+
+.grsh{
+	float: left;
+}
+.grshWord{
+	font-size: 14px;
+	word-wrap: break-word;
+	color: #333;
+	margin-bottom: 15px;
+	text-indent: 2em;
+	line-height: 24px;
+	float: left;
+	width: 550px;
+}
+
+.grshPic{
+	margin-left: 10px;
+	float: left;
+	width: 220px;
+	height: 150px;
+}
+
+
+.jstd{
+	float: left;
+}
+.jstdWord{
+	font-size: 14px;
+	word-wrap: break-word;
+	color: #333;
+	margin-bottom: 15px;
+	text-indent: 2em;
+	line-height: 24px;
+	float: left;
+	width: 550px;
+}
+
+.jstdPic{
+	margin-left: 10px;
+	float: left;
+	width: 220px;
+	height: 150px;
+}
+
+
+.NBAsj{
+	float: left;
+}
+.NBAsjWord{
+	font-size: 14px;
+	word-wrap: break-word;
+	color: #333;
+	margin-bottom: 15px;
+	text-indent: 2em;
+	line-height: 24px;
+	float: left;
+	width: 550px;
+}
+
+.NBAsjPic{
+	margin-left: 10px;
+	float: left;
+	width: 220px;
+	height: 150px;
+}
+
+
+
+
+
+.ydjl{
+	float: left;
+}
+.jydjlWord{
+	font-size: 14px;
+	word-wrap: break-word;
+	color: #333;
+	margin-bottom: 15px;
+	text-indent: 2em;
+	line-height: 24px;
+	float: left;
+	width: 550px;
+}
+
+.ydjlPic{
+	margin-left: 10px;
+	float: left;
+	width: 220px;
+	height: 150px;
+}
+
+
+.gjsc{
+	float: left;
+}
+.gjscWord{
+	font-size: 14px;
+	word-wrap: break-word;
+	color: #333;
+	margin-bottom: 15px;
+	text-indent: 2em;
+	line-height: 24px;
+	float: left;
+	width: 550px;
+}
+
+.gjscPic{
+	margin-left: 10px;
+	float: left;
+	width: 220px;
+	height: 150px;
+}
+
+
+.shsh{
+	float: left;
+}
+.shshWord{
+	font-size: 14px;
+	word-wrap: break-word;
+	color: #333;
+	margin-bottom: 15px;
+	text-indent: 2em;
+	line-height: 24px;
+	float: left;
+	width: 550px;
+}
+
+.shshPic{
+	margin-left: 10px;
+	float: left;
+	width: 220px;
+	height: 150px;
+}
+
+
